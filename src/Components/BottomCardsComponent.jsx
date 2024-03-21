@@ -6,7 +6,7 @@ const BottomCardsComponent = () => {
             <div className="max-w-screen-xl w-full p-4 text-start">
                 <h1 className='text-3xl text-cardText text-start font-bold whitespace-nowrap dark:text-white'>Overview - Today</h1>
                 <br />
-                <div className="flex flex-row flex-wrap gap-8">
+                <div className="flex flex-row flex-wrap gap-8 justify-center">
                     <a href="#" class="flex flex-col bg-cardBG rounded-lg shadow md:flex-row max-w-sm hover:bg-gray-100 dark:border-gray-700 dark:bg-darkCardBG dark:hover:bg-gray-700 min-h-40 min-w-72 p-4 font-bold">
                         <div class="w-full flex flex-row justify-between p-4 leading-normal">
                             <div className="col flex flex-col justify-between">

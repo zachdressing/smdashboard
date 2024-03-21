@@ -35,9 +35,9 @@ const NavbarComponent = () => {
 
 
     return (
-        <nav class="bg-lightBG1 dark:bg-darkBG2 fixed w-full top-0 start-0 h-[250px]">
-            <div class="max-w-screen-xl flex flex-wrap items-center justify-between mx-auto p-4">
-                <div className="">                
+        <nav class="bg-lightBG1 dark:bg-darkBG2 absolute w-full top-0 start-0 h-[250px]">
+            <div class="max-w-screen-xl flex flex-wrap items-center justify-between mx-auto p-4 gap-2">
+                <div className="border-b-2 border-gray-500 sm:border-none">                
                     <span class="self-center text-3xl font-bold whitespace-nowrap dark:text-white">Social Media Dashboard</span>
                     <p class="text-cardText text-start font-semibold whitespace-nowrap dark:text-darkCardText">Total Followers: 23,004</p>
                 </div>
