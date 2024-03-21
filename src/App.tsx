@@ -17,7 +17,6 @@ function App() {
       <TopCardsComponent/>
       <br/>
       <br/>
-      <br/>
       <BottomCardsComponent/>
     </div>
   );

@@ -21,6 +21,8 @@ module.exports = {
         'cardText2': 'hsl(230, 17%, 14%)',
         'darkCardBG': 'hsl(228, 28%, 20%)',
         'darkCardText': 'hsl(228, 34%, 66%)',
+        'green': 'hsl(163, 72%, 41%)',
+        'red': 'hsl(356, 69%, 56%)'
       },
     },
   },

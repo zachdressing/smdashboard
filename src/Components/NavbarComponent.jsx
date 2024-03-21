@@ -9,6 +9,7 @@ const NavbarComponent = () => {
             document.documentElement.classList.remove('dark')
         }
     }
+    startDark();
 
     const handleDark = () =>{
         if (localStorage.getItem('color-theme')) {
@@ -30,8 +31,8 @@ const NavbarComponent = () => {
                 localStorage.setItem('color-theme', 'dark');
             }
         }
-        console.log(document.documentElement.classList)
     }
+
 
     return (
         <nav class="bg-lightBG1 dark:bg-darkBG2 fixed w-full top-0 start-0 h-[250px]">
