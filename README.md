@@ -1,7 +1,7 @@
-##Zachary Dressel
-##3/20/24
-##Peer Reviewer:
-##Peer Review:
+## Zachary Dressel
+## 3/20/24
+## Peer Reviewer: Leo Garcia
+## Peer Review: The only thing I could say is that the edges for the top lines curve down, but that's the most minor nitpick compared to the rest of the website, which looks spot on. Dark mode's toggle works as intended as well, site's fairly responsive, colors look accurate, nothing bad I actually can say here, the site's just well done.
 
 # Getting Started with Create React App
 
